@@ -2,6 +2,8 @@
 
 Este repositório contém o desenvolvimento e a análise empírica do problema de **Investimento em Ações**, modelado através do problema clássico da **Maior Subsequência Crescente** (*Longest Increasing Subsequence - LIS*).
 
+Segue link para vídeo sobre a atividade: [Experimento 7.6 - Análise de Algoritmos](https://youtu.be/sLmlrwYnAH0)
+
 ## 🎯 Objetivo do Experimento
 
 O objetivo principal deste experimento é auxiliar um analista financeiro a identificar **períodos de crescimento sustentado** no valor de uma ação ao longo do tempo. 
